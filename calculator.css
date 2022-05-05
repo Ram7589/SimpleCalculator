@@ -1,3 +1,6 @@
+
+.footer {
+
 .btn-primary {
     background-color: #214e8f;
     color: white;
@@ -7,6 +10,7 @@
     align-content: center;
   }
   .footer {
+
     background-color: #214e8f;
     color: white;
     position: fixed;
